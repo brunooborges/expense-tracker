@@ -1,8 +1,8 @@
 # Expense Tracker
 
-Projeto em React de um simples Sistema de Finanças Pessoas
+Projeto em React + Typescript de um simples Sistema de Finanças Pessoas
 
-React project building a simple Expense Tracker
+React + Typescript project building a simple Expense Tracker
 
 ## Available Scripts
 
